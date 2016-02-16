@@ -1,0 +1,154 @@
+body {
+	font-family: OpenSans-Light;
+	font-size: 14px;
+}
+.logo {
+	width: 100px;
+}
+.nav-header {
+	float: right;
+}
+.nav-header a {
+	text-decoration: none;
+	color: rgb(83, 88, 95);
+	margin-left: 20px;
+}
+.nav-header a:hover {
+	color: green;
+}
+.nav-header ul {
+	list-style-type: none;
+}
+.nav-header li {
+	display: inline-block;
+	margin: 30px 20px;
+}
+.linea_vertical {
+	border-left: 1px solid gray;
+}
+.uno {
+	background-image: url(../img/semilla.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 400px;
+}
+.dos {
+	background-color: #F2F2F2;
+}
+.dos p {
+	text-align: center;
+	padding: 50px 0px;
+}
+.mision_vision {
+	padding: 100px 0px;
+	text-align: center;
+}
+.mision_vision h3 {
+	font-family: OpenSans-Bold;
+}
+.mision_vision img {
+	padding-bottom: 10px;
+}
+.metodologia img {
+	height: 320px;
+	width: 460px;
+}
+.icono_metodo {
+	text-align: center;
+	color: white;
+	padding: 80px 25px 0px;	
+}
+.icono_metodo h3 {
+	font-family: OpenSans-Bold;
+}
+.icono_metodo img {
+	height: 60px;
+	width: 50px;
+	padding-bottom: 10px;
+}
+.metodo_verde {
+	background-image: url(../img/fondo.jpg);
+	height: 320px;
+}
+.servicios {
+	text-align: center;
+	padding: 30px 0px;
+}
+.servicios h3 {
+	font-family: OpenSans-Bold;
+}
+.proyectos {
+	background-color: #5E8039;
+	color: white;
+}
+.proyectos img {
+	width: 400px;
+}
+.proyectos .texto {
+	text-align: center;
+	padding: 90px 0px;
+}
+.proyectos .imagen {
+	padding: 30px 0px 30px;
+}
+.equipo {
+	padding: 30px 0px;
+}
+.equipo .imagen {
+	border-radius: 100%;
+	padding: 10px 0px;
+}
+.equipo .texto {
+	text-align: center;
+}
+.equipo a {
+	margin-left: 5px;
+}
+.equipo p {
+	padding: 0px 30px 30px;
+}
+.equipo .contacto {
+	width: 30px;
+}
+.blog {
+	background-image: url(../img/fondo2.jpg);
+}
+.blog .imagen img {
+	width: 300px;
+}
+.blog .imagen a {
+	text-decoration: none;
+	color: rgb(83, 88, 95);
+}
+.blog .row {
+	padding: 30px 0px;
+}
+.fondo_contacto {
+	background-color: #4D4D4D;
+	padding: 30px 0px;
+}
+.contacto_empresa {
+	width: 230px;
+	height: 200px;
+	border: 1px solid #F2F2F2;
+}
+.contacto_empresa a {
+	text-decoration: none;
+	color: gray;
+}
+.contacto_empresa img {
+	width: 90px;
+	margin-top: 50px;
+	margin-left: 90px;
+}
+.contacto_empresa h3 {
+	margin-top: 20px;
+}
+footer {
+	background-color: #F2F2F2;
+	padding: 30px 0px;
+}
+footer h4 {
+	color: orange;
+}
